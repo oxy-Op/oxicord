@@ -31,7 +31,7 @@ _Oxicord is an open source API Wrapper created by [Oxy](https://github.com/oxy-O
 
 ## Usage
 ###### Documentation
-1. Documentation
+1. [Documentation](https://github.com/oxy-Op/oxicord/tree/master/docs)
 
 
 ## Example Usage
