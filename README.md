@@ -11,5 +11,5 @@ _Oxicord is an open source API Wrapper created by [Oxy](https://github.com/oxy-O
 
 
 1. ```git clone https://github.com/oxy-Op/oxicord```
-<br />
+
 1. ```pip install git+https://github.com/oxy-Op/oxicord```
