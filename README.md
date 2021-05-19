@@ -18,3 +18,15 @@ _Oxicord is an open source API Wrapper created by [Oxy](https://github.com/oxy-O
 1. Download [zip](https://codeload.github.com/oxy-Op/oxicord/zip/refs/heads/master)
 
 
+### Requirements
+
+1. [Python](https://python.org/downloads)
+   1. [Python for Windows](https://www.python.org/downloads/windows/)
+   1. [Mac Os X](https://www.python.org/downloads/mac-osx/)
+   1. [Other](https://www.python.org/download/other/)
+
+1. **Module [Requests](https://pypi.org/project/requests/)**
+
+
+
+#### Usage
