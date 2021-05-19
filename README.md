@@ -46,4 +46,4 @@ client = oxicord.Client("token")
 
 def getMe():
     return user().getMyInfo()
-getMe()```
+getMe()
