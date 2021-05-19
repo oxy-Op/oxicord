@@ -29,4 +29,21 @@ _Oxicord is an open source API Wrapper created by [Oxy](https://github.com/oxy-O
 
 
 
-#### Usage
+## Usage
+###### Documentation
+1. Documentation
+
+## Example Usage
+```from oxicord.oxicord import Client
+import oxicord
+from oxicord import user
+
+"""oxicord.Client("token")"""
+# or 
+client = oxicord.Client("token")
+
+def getMe():
+    return user().getMyInfo()
+getMe()```
+
+
