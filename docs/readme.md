@@ -5,14 +5,14 @@
 
 1. **[Usage](#Usage)**
 
-1. **[Audit Logs](https://github.com/oxy-Op/oxicord/blob/master/docs/audit.md)
-1. [Guild](https://github.com/oxy-Op/oxicord/blob/master/docs/guild.md)
-1. [Channel](https://github.com/oxy-Op/oxicord/blob/master/docs/channel.md)
-1. [Emoji](https://github.com/oxy-Op/oxicord/blob/master/docs/emoji.md)
-1. [Invite](https://github.com/oxy-Op/oxicord/blob/master/docs/invite.md)
-3. [Webhook](https://github.com/oxy-Op/oxicord/blob/master/docs/webhook.md)
-4. [Template](https://github.com/oxy-Op/oxicord/blob/master/docs/template.md)
-5. [User](https://github.com/oxy-Op/oxicord/blob/master/docs/user.md)**
+1. **[Audit Logs](https://github.com/oxy-Op/oxicord/blob/master/docs/audit.md)**
+1. **[Guild](https://github.com/oxy-Op/oxicord/blob/master/docs/guild.md)**
+1. **[Channel](https://github.com/oxy-Op/oxicord/blob/master/docs/channel.md)**
+1. **[Emoji](https://github.com/oxy-Op/oxicord/blob/master/docs/emoji.md)**
+1. **[Invite](https://github.com/oxy-Op/oxicord/blob/master/docs/invite.md)**
+3. **[Webhook](https://github.com/oxy-Op/oxicord/blob/master/docs/webhook.md)**
+4. **[Template](https://github.com/oxy-Op/oxicord/blob/master/docs/template.md)**
+5. **[User](https://github.com/oxy-Op/oxicord/blob/master/docs/user.md)**
 
 
 
@@ -50,7 +50,7 @@ import oxicord
 bot = oxicord.Client("token")
 
 ```
-> **⚠️ NOTE : Please Enter a valid user token
+> **⚠️ NOTE : Please Enter a valid user token**
 <br/>
 
 > **Congo! You created your selfbot**
