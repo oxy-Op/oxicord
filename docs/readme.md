@@ -5,7 +5,7 @@
 
 1. Usage 
 
-1. Audit Logs
+1. [Audit Logs[(https://github.com/oxy-Op/oxicord/blob/master/docs/audit.md)
 1. Guild
 1. Channel
 1. Emoji
