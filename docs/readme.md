@@ -1,7 +1,7 @@
 # Documentation
 
 1. [Getting Started](https://github.com/oxy-Op/oxicord/tree/master/docs#getting-started)
-    1. [Using oxicord to make selfbots](https://github.com/oxy-Op/oxicord/tree/master/docs#getting-started-creating-first-selfbot)
+    1. [Using oxicord to make selfbots](https://github.com/oxy-Op/oxicord/tree/master/docs#creating-first-selfbot)
 
 1. [Usage](#Usage)
 
@@ -50,7 +50,7 @@ import oxicord
 bot = oxicord.Client("token")
 
 ```
-> NOTE : Please Enter a valid user token
+> NOTE : Please Enter a valid user token <br/> <br / >
 > Congo! You created your selfbot
 
 
