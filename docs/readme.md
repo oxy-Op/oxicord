@@ -50,7 +50,7 @@ import oxicord
 bot = oxicord.Client("token")
 
 ```
-> NOTE : Please Enter a valid user token <br/> <br / >
+> NOTE : Please Enter a valid user token <br/> 
 > Congo! You created your selfbot
 
 
