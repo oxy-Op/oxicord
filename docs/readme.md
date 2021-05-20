@@ -42,7 +42,7 @@ from oxicord import webhook
 # or do in single line
 
 ```
-* Creating first selfbot
+# Creating selfbot
 
 ```
 import oxicord
@@ -51,7 +51,7 @@ bot = oxicord.Client("token")
 
 ```
 > NOTE : Please Enter a valid user token
-
+> Congo! You created your selfbot
 
 
 # Usage
