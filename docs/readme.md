@@ -3,7 +3,7 @@
 1. Getting Started
     1. Using oxicord to make selfbots
 
-1. Usage 
+1. [Usage](#start)
 
 1. [Audit Logs](https://github.com/oxy-Op/oxicord/blob/master/docs/audit.md)
 1. [Guild](https://github.com/oxy-Op/oxicord/blob/master/docs/guild.md)
@@ -16,7 +16,7 @@
 
 # Start
 
-* **Example Join guild by invite **
+* **Example Join guild by invite**
  ```
  import oxicord
 from oxicord import guild
