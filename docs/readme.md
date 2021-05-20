@@ -18,13 +18,13 @@
 
 # Getting started
 
-1. Import Oxicord After [Installing](https://github.com/oxy-Op/oxicord#installation)
+1. Import Oxicord After [Installing](https://github.com/oxy-Op/oxicord#installation) <br />
 **Example**
 ```
 import oxicord
 ```
 
-1. Import all classes
+1. Import all classes <br />
 **Example**
 ```
 import oxicord
@@ -36,6 +36,7 @@ from oxicord import template
 from oxicord import webhook
 
 # or do in single line
+
 ```
 
 
