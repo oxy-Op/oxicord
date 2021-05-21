@@ -51,4 +51,4 @@ getMe()
 
 ## Links 
 * [github](https://github.com/oxy-Op/oxicord)
-* [PyPi](https://example.com)
+* [PyPi](https://pypi.org/project/oxicord/)
